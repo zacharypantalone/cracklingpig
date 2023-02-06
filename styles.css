@@ -5,6 +5,26 @@ section {
 
 }
 
-.something {
+.header {
   background-color: gray;
+  height: 100vh;
+  font-size: 40px;
+}
+
+footer {
+  height: 400px;
+  background-color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  width: 200px;
 }
