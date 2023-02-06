@@ -23,8 +23,21 @@ nav {
 
 ul {
   display: flex;
+  width: 500px;
+  list-style-type: none;
+  font-size: 30px;
 }
 
 li {
   width: 200px;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+.header-text {
+  margin-left: 40px;
+
 }
