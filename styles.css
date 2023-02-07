@@ -62,5 +62,13 @@ p {
 }
 
 .button {
-  
+  width: 200px;
+  height: 55px;
+  border-radius: 30px;
+  background-color: salmon;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 300;
+  padding-top: 5px;
+  margin-top: 20px;
 }
