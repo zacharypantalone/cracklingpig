@@ -4,15 +4,15 @@ body {
 
 section {
   height: 400px;
-  background-color:black;
+  background-color: rgb(18, 18, 19);
   border:solid white 1px;
 
 }
 
 .header {
-  background-color: gray;
   height: 100vh;
   font-size: 40px;
+  color: aliceblue;
 }
 
 footer {
@@ -71,4 +71,8 @@ p {
   font-weight: 300;
   padding-top: 5px;
   margin-top: 20px;
+}
+
+.button:hover {
+  
 }
